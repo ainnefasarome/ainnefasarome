@@ -1,12 +1,12 @@
-<h1 align="center">
-  <code>$ whoami</code>
-</h1>
-<h2 align="center">Banghans</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Banghans&fontSize=70&fontColor=e5b842&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20%7C%20Termux%20Enthusiast&descAlignY=58&descSize=18&descColor=ffffff" width="100%" />
+</div>
 
-<p align="center">
-  <code>$ cat motto.txt</code><br>
-  <em>"Jangan lupa untuk selalu tersenyum"</em>
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=E5B842&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Banghans+%F0%9F%91%8B;Android+Developer+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Building+simple+apps+that+matter+%F0%9F%9A%80;Jangan+lupa+untuk+selalu+tersenyum+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
@@ -64,3 +64,7 @@
 <p align="center">
   <em>⭐ "Jangan lupa untuk selalu tersenyum."</em>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" />
+</div>
