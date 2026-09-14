@@ -39,6 +39,30 @@
 
 ---
 
+### 📈 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ainnefasarome&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=e5b842&text_color=ffffff&langs_count=8" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ainnefasarome&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+### 🐍 Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ainnefasarome/ainnefasarome/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 ### 🚀 Proyek Unggulan
 
 **📱 Saklar Eli** — Alternatif tombol volume untuk Android
@@ -53,6 +77,14 @@
   <a href="https://ainnefasarome.github.io/bio-link/">
     <img src="https://img.shields.io/badge/Kunjungi-e5b842?style=for-the-badge&logo=googlechrome&logoColor=black" />
   </a>
+</p>
+
+---
+
+### 💬 Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ---
