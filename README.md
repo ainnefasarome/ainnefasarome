@@ -55,6 +55,27 @@
 
 ---
 
+### 📉 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ainnefasarome&bg_color=0d0d0d&color=e5b842&line=e5b842&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
+### 👥 Followers & Following
+
+<p align="center">
+  <a href="https://github.com/ainnefasarome?tab=followers">
+    <img src="https://img.shields.io/github/followers/ainnefasarome?label=Followers&style=for-the-badge&color=e5b842&labelColor=0d0d0d&logo=github" />
+  </a>
+  <a href="https://github.com/ainnefasarome?tab=following">
+    <img src="https://img.shields.io/github/stars/ainnefasarome?label=Total%20Stars&style=for-the-badge&color=e5b842&labelColor=0d0d0d&logo=github" />
+  </a>
+</p>
+
+---
+
 ### 🐍 Snake Animation
 
 <p align="center">
@@ -85,6 +106,14 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+### 😂 Random Dev Joke
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder=true&bgColor=0d0d0d&textColor=ffffff&qColor=e5b842&aColor=e5b842" />
 </p>
 
 ---
