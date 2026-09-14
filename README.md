@@ -10,6 +10,14 @@
 
 ---
 
+### 👨‍💻 Tentang Saya
+
+Membangun aplikasi Android dan web yang sederhana, ringan, dan bermanfaat.
+
+> *"Hal besar selalu dimulai dari satu langkah kecil — dan satu baris kode."*
+
+---
+
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -114,6 +122,25 @@
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder=true&bgColor=0d0d0d&textColor=ffffff&qColor=e5b842&aColor=e5b842" />
+</p>
+
+---
+
+### 🌐 Terhubung dengan Saya
+
+<p align="center">
+  <a href="https://instagram.com/ainnefasarome/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="http://t.me/ainnefasarome" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://tiktok.com/@ainnefasarome" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/ainnefasarome" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 </p>
 
 ---
