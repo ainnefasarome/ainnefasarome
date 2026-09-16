@@ -47,13 +47,7 @@
 
 ---
 
-### 🌐 Bio Link
-
-<p align="center">
-  <a href="https://ainnefasarome.github.io/bio-link/">
-    <img src="https://img.shields.io/badge/KUNJUNGI-e5b842?style=for-the-badge&logo=googlechrome&logoColor=black" />
-  </a>
-</p>
+🌐 **Bio Link** &nbsp;&nbsp; <a href="https://ainnefasarome.github.io/bio-link/"><img src="https://img.shields.io/badge/KUNJUNGI-e5b842?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
 
 ---
 
