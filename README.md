@@ -12,9 +12,7 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LemboAde-e5b842?style=for-the-badge&logo=android&logoColor=black" />
-</p>
+<img src="https://img.shields.io/badge/LemboAde-e5b842?style=for-the-badge&logo=android&logoColor=black" />
 
 ### 💬 Dev Quote of the Day
 
