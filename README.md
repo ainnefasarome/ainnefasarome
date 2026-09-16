@@ -28,7 +28,7 @@
 
 ---
 
-### 🌐 Terhubung dengan Saya
+### 🌐 Let's Connect Together
 
 <p align="center">
   <a href="https://instagram.com/ainnefasarome/" target="_blank">
