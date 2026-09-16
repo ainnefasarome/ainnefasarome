@@ -10,14 +10,6 @@
 
 ---
 
-### 👨‍💻 Tentang Saya
-
-Membangun aplikasi Android dan web yang sederhana, ringan, dan bermanfaat.
-
-> *"Hal besar selalu dimulai dari satu langkah kecil — dan satu baris kode."*
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -47,81 +39,10 @@ Membangun aplikasi Android dan web yang sederhana, ringan, dan bermanfaat.
 
 ---
 
-### 📈 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ainnefasarome&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=e5b842&text_color=ffffff&langs_count=8" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ainnefasarome&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
-</p>
-
----
-
-### 📉 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ainnefasarome&bg_color=0d0d0d&color=e5b842&line=e5b842&point=ffffff&area=true&hide_border=true" />
-</p>
-
----
-
-### 👥 Followers & Following
-
-<p align="center">
-  <a href="https://github.com/ainnefasarome?tab=followers">
-    <img src="https://img.shields.io/github/followers/ainnefasarome?label=Followers&style=for-the-badge&color=e5b842&labelColor=0d0d0d&logo=github" />
-  </a>
-  <a href="https://github.com/ainnefasarome?tab=following">
-    <img src="https://img.shields.io/github/stars/ainnefasarome?label=Total%20Stars&style=for-the-badge&color=e5b842&labelColor=0d0d0d&logo=github" />
-  </a>
-</p>
-
----
-
-### 🐍 Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ainnefasarome/ainnefasarome/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-
-### 🚀 Proyek Unggulan
-
-**📱 Saklar Eli** — Alternatif tombol volume untuk Android
-<p>
-  <a href="https://github.com/ainnefasarome/SaklarEli/releases/latest">
-    <img src="https://img.shields.io/badge/Download%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  </a>
-</p>
-
-**🌐 Bio Link** — Website profil pribadi
-<p>
-  <a href="https://ainnefasarome.github.io/bio-link/">
-    <img src="https://img.shields.io/badge/Kunjungi-e5b842?style=for-the-badge&logo=googlechrome&logoColor=black" />
-  </a>
-</p>
-
----
-
 ### 💬 Dev Quote of the Day
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
----
-
-### 😂 Random Dev Joke
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder=true&bgColor=0d0d0d&textColor=ffffff&qColor=e5b842&aColor=e5b842" />
 </p>
 
 ---
