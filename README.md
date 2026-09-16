@@ -43,7 +43,7 @@
   <a href="https://www.facebook.com/ainnefasarome" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://twitter.com/ainnefasarome" target="_blank" style="display:inline-block;background:#000000;width:135px;height:28px;line-height:28px;text-align:left;padding-left:10px;border-radius:4px;vertical-align:middle;text-decoration:none;box-sizing:border-box;"><img src="https://cdn.simpleicons.org/x/white" style="height:14px;vertical-align:middle;display:inline-block;" /></a>
+  <a href="https://twitter.com/ainnefasarome" target="_blank"><img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://threads.net/@ainnefasarome" target="_blank">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
   </a>
