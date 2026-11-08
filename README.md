@@ -1,57 +1,50 @@
-## > Halo, saya Banghans (Hans Developer) 👋
+### &gt; Hi there, I'm [Aditya Shakya](https://github.com/ainnefasarome) 👋
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/ainnefasarome)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ainnefasarome/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ainnefasarome)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ainnefasarome)
-
-### Selamat datang
-
-Saya developer independen yang berbasis di Indonesia. Seluruh pekerjaan pengembangan saya lakukan melalui perangkat seluler menggunakan Termux, tanpa laptop maupun komputer.
-
-Pengembangan dilakukan secara manual dari nol, tanpa generator dan tanpa proses otomatis. Setiap error dan kegagalan dalam proses pembuatan dipelajari untuk memahami cara kerja sistem hingga tingkat dasar.
-
-<img src="assets/hans.gif" align="right" width="40%" alt="Banghans" />
-
-**Tentang pekerjaan saya:**
-
-- 📱 Mengerjakan semuanya dari HP menggunakan Termux
-- 🛠️ Membangun secara manual dari nol, tanpa generator
-- 🌐 Tidak terpaku pada satu bidang: aplikasi, website, jaringan, keamanan, dan sistem Android
-- 📨 Kontak melalui Telegram, Instagram, atau Facebook
-
-### Cakupan Pengembangan
-
-Pengembangan tidak dibatasi pada satu bidang. Cakupannya meliputi:
-
-- Aplikasi Android, website, PWA, dan game
-- Bot, script otomasi, dan tools CLI
-- Backend, API, database, dan sistem login
-- Jaringan dan infrastruktur: OpenWrt, captive portal, firewall, VPN, proxy, dan DNS
-- Keamanan: enkripsi, steganografi, dan reverse engineering
-- Sistem Android: modul Magisk, modifikasi ROM, dan patch boot
-- Bahasa pemrograman, interpreter, compiler, dan build system
-- Kecerdasan buatan, analisis data, dan sistem terdistribusi
-
-### Peralatan
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,py,nodejs,cpp,html,css,js,sqlite,git,github,linux&perline=11" alt="Alat" />
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="#"><img src="https://img.shields.io/badge/KoFi-FF5E5B?style=flat-square&logo=kofi&logoColor=white" alt="KoFi"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Website-222222?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
 </p>
 
-| Kategori | Alat |
-|----------|------|
-| Lingkungan | Termux, Bash, Zsh, OpenSSH, proot |
-| Versi dan rilis | Git, GitHub CLI |
-| Bahasa | Shell, Python, JavaScript (Node.js), C/C++, HTML, CSS |
-| Build Android | OpenJDK, aapt2, d8, apksigner (build script tanpa Gradle) |
-| Backend dan data | Node.js, Python, SQLite |
-| Jaringan | OpenWrt (UCI, SSH), Nmap, curl |
-| Keamanan | OpenSSL, GnuPG |
-| Sistem Android | Root, Magisk, LSPosed |
+### Glad to see you here! ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ainnefasarome.ainnefasarome&left_color=gray&right_color=blue)
 
-### Statistik GitHub
+I am the developer of [Archcraft](https://archcraft.io), Which is an open-source Linux distribution based on [Arch Linux](https://archlinux.org).
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ainnefasarome&hide_border=true&background=0D1117&ring=e5b842&fire=e5b842&currStreakLabel=e5b842&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="Rekor aktivitas" />
+I love spending my time creating something that not only looks good but also perfectly usable and practical. That being said, Archcraft came to life. I've been creating, updating and maintaining it for the last 3 years.
+
+**Talking about Personal Stuffs:**
+
+<table>
+<tr>
+<td valign="middle">
+
+- 🔭 I'm currently working on something cool
+- 🌱 I'm currently learning Web Development
+- 💬 Ask me about anything, I am happy to help
+- ⚡ I regularly create new stuff for [Archcraft](https://archcraft.io)
+- 📫 How to reach me: [adi1090x@gmail.com](mailto:adi1090x@gmail.com)
+
+</td>
+<td valign="middle">
+
+<img src="https://octodex.github.com/images/original.png" width="260" alt="gambar sementara">
+
+</td>
+</tr>
+</table>
+
+**📊 This Week I Spent My Time On:**
+
+```text
+No activity tracked
+```
+
+**📈 My GitHub Stats:**
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ainnefasarome&show_icons=true&theme=dark" alt="GitHub Stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ainnefasarome&layout=compact&theme=dark" alt="Top Langs" height="150">
 </p>
