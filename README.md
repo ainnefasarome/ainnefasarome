@@ -1,59 +1,39 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Banghans&fontSize=70&fontColor=e5b842&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20%7C%20Termux%20Enthusiast&descAlignY=58&descSize=18&descColor=ffffff" width="100%" />
-</div>
+# Banghans (Hans Developer)
 
-<h3 align="center">Membuat aplikasi Android yang ringan, sederhana, dan berguna 🚀</h3>
+## Profil
 
----
+Saya Banghans (Hans Developer), developer independen yang berbasis di Indonesia. Seluruh pekerjaan pengembangan saya lakukan melalui perangkat seluler menggunakan Termux, tanpa laptop maupun komputer.
 
-## 👋 Tentang Saya
+## Metode Kerja
 
-Halo, saya **Banghans** (*Hans Developer*), pengembang Android dari Indonesia 🇮🇩.
+Pengembangan dilakukan secara manual dari nol, tanpa generator dan tanpa proses otomatis. Setiap error dan kegagalan dalam proses pembuatan dipelajari untuk memahami cara kerja sistem hingga tingkat dasar.
 
-Saya membuat aplikasi yang ringan dan sederhana, banyak di antaranya tanpa antarmuka (non-UI), dan seluruhnya dikembangkan langsung dari ponsel menggunakan **Termux**.
+## Cakupan Pengembangan
 
----
+Pengembangan tidak dibatasi pada satu bidang. Cakupannya meliputi:
 
-## 📱 Proyek Unggulan
+- Aplikasi Android, website, PWA, dan game
+- Bot, script otomasi, dan tools CLI
+- Backend, API, database, dan sistem login
+- Jaringan dan infrastruktur: OpenWrt, captive portal, firewall, VPN, proxy, dan DNS
+- Keamanan: enkripsi, steganografi, dan reverse engineering
+- Sistem Android: modul Magisk, modifikasi ROM, dan patch boot
+- Bahasa pemrograman, interpreter, compiler, dan build system
+- Kecerdasan buatan, analisis data, dan sistem terdistribusi
 
-| Aplikasi | Fungsi | Unduh |
-|----------|--------|-------|
-| [**Pengaturan Router**](https://github.com/ainnefasarome/pengaturan-router) | Otomatis mendeteksi IP router dari WiFi yang terhubung dan membuka halaman admin di dalam aplikasi | [Unduh](https://github.com/ainnefasarome/pengaturan-router/releases/latest) |
-| [**Opsi Pengembang**](https://github.com/ainnefasarome/opsi-pengembang) | Mengarahkan langsung ke Build Number agar Opsi Pengembang aktif di berbagai merek Android | [Unduh](https://github.com/ainnefasarome/opsi-pengembang/releases/latest) |
-| [**Saklar Eli**](https://github.com/ainnefasarome/SaklarEli) | Alternatif tombol volume saat tombol fisik rusak, langsung memanggil panel volume sistem | [Unduh](https://github.com/ainnefasarome/SaklarEli/releases/latest) |
-| [**HadeKamory**](https://github.com/ainnefasarome/HadeKamory) | Mematikan layar dengan satu sentuhan pada ikon, tanpa tampilan | [Unduh](https://github.com/ainnefasarome/HadeKamory/releases/latest) |
+## Peralatan
 
----
+| Kategori | Alat |
+|----------|------|
+| Lingkungan | Termux, Bash, Zsh, OpenSSH, proot |
+| Versi dan rilis | Git, GitHub CLI |
+| Bahasa | Shell, Python, JavaScript (Node.js), C/C++, HTML, CSS |
+| Build Android | OpenJDK, aapt2, d8, apksigner (build script tanpa Gradle) |
+| Backend dan data | Node.js, Python, SQLite |
+| Jaringan | OpenWrt (UCI, SSH), Nmap, curl |
+| Keamanan | OpenSSL, GnuPG |
+| Sistem Android | Root, Magisk, LSPosed |
 
-## 🛠️ Tech Stack
+## Kontak
 
-<p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" alt="Termux" />
-  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
----
-
-## 🌐 Portofolio & Kontak
-
-<p>
-  <a href="https://ainnefasarome.github.io/Banghans.dev/"><img src="https://img.shields.io/badge/Portofolio-e5b842?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portofolio" /></a>
-  <a href="https://instagram.com/ainnefasarome/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://t.me/ainnefasarome"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://tiktok.com/@ainnefasarome"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  <a href="https://www.facebook.com/ainnefasarome"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://threads.net/@ainnefasarome"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" /></a>
-  <a href="https://twitter.com/ainnefasarome"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-</p>
-
-<p align="center"><em>⭐ "Jangan lupa untuk selalu tersenyum."</em></p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" />
-</div>
+[Telegram](https://t.me/ainnefasarome) · [Instagram](https://instagram.com/ainnefasarome/) · [Facebook](https://www.facebook.com/ainnefasarome) · [GitHub](https://github.com/ainnefasarome)
