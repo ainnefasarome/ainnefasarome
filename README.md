@@ -1,7 +1,4 @@
-<div align="center">
-  <h1>Banghans (Hans Developer)</h1>
-  <p>Developer independen · Termux</p>
-</div>
+# Banghans (Hans Developer)
 
 ## Profil
 
@@ -26,10 +23,6 @@ Pengembangan tidak dibatasi pada satu bidang. Cakupannya meliputi:
 
 ## Peralatan
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,py,nodejs,cpp,html,css,js,sqlite,git,github,linux&perline=11" alt="Alat" />
-</p>
-
 | Kategori | Alat |
 |----------|------|
 | Lingkungan | Termux, Bash, Zsh, OpenSSH, proot |
@@ -40,14 +33,6 @@ Pengembangan tidak dibatasi pada satu bidang. Cakupannya meliputi:
 | Jaringan | OpenWrt (UCI, SSH), Nmap, curl |
 | Keamanan | OpenSSL, GnuPG |
 | Sistem Android | Root, Magisk, LSPosed |
-
-## Statistik GitHub
-
-<p align="center">
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ainnefasarome&hide_border=true&background=0D1117&ring=e5b842&fire=e5b842&currStreakLabel=e5b842&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="Rekor aktivitas" />
-</p>
 
 ## Kontak
 
