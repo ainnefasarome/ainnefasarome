@@ -1,4 +1,4 @@
-### &gt; Hi there, I'm [Aditya Shakya](https://github.com/ainnefasarome) 👋
+### &gt; Hi there, I'm [Banghans](https://github.com/ainnefasarome) 👋
 
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="#"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter"></a>
@@ -15,7 +15,7 @@ I love spending my time creating something that not only looks good but also per
 
 **Talking about Personal Stuffs:**
 
-<img src="assets/desk.svg" align="right" width="400" alt="">
+<img src="assets/banghans.gif" align="right" width="400" alt="">
 
 - 🔭 I'm currently working on something cool
 - 🌱 I'm currently learning Web Development
